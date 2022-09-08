@@ -48,4 +48,4 @@ The data set marketing_data.csv consists of 2,240 customers of the company with 
 - Complain: 1 If the customer complained in the last 2 years, 0 otherwise
 - Country: The country customer belongs to
 
-*Source data: Kaggle.com*
+*Data source: Kaggle.com*
